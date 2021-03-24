@@ -5,7 +5,7 @@
 const Web3 = require('web3');
 
 // eth api key endpoint
-const url = 'https://1q8e5OYcJFN3yGuZ5dGxg9cClqx:b0c76a22ffa36590716d9044c2cfad2a@eth2-beacon-mainnet.infura.io'
+const url = '#####'
 
 // create new web object and connecting to eth api endpoint
 const web3 = new Web3(Web3.givenProvider || url);
